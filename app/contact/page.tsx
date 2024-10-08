@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./components/header";
-import Nav from "./components/nav";
+import Header from "../components/header";
+import Nav from "../components/nav";
 
 export default function Page() {
     return <>
@@ -14,9 +14,10 @@ export default function Page() {
 
             <div className="col-9">
                 <img className="d-block w-100 mb-3" src="https://static.vecteezy.com/system/resources/previews/002/617/609/original/set-of-coffee-type-and-menu-infographic-cup-of-coffee-with-multiple-color-level-of-liquid-ingredient-flat-and-simple-design-vector.jpg" />
-                <h1>Welcome</h1>
+                <h1>Contact Us</h1>
                 <p>
-                    Explore our meticulously sourced beans, learn about our roasting process, and discover unique flavor profiles. Join us on a journey from farm to cup, and experience the true essence of coffee like never before!
+                    Please reach out if you're also a coffee fan, we would love to hear from you! 
+                    Call us at 011-I LOVE COFFEE (toll free)!
                 </p>
             </div>
 
